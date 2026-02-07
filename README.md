@@ -1,32 +1,41 @@
-# Hi there, I'm Subham Tiwari 👋
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:)
+# Subham Tiwari
 
-## 💼 About Me
+**Software Developer | Linux Enthusiast | System Programmer**
 
-I'm a passionate **Software Developer** and **Linux Enthusiast** with hands-on experience in building efficient, user-centric applications. I specialize in developing robust solutions using modern technologies while maintaining a strong foundation in systems programming and web development.
-
-- 🔭 Currently working on innovative projects in AI/ML and web development
-- 🌱 Deep expertise in **Arch Linux** and system-level programming
-- 💡 Passionate about creating practical solutions for real-world problems
-- 🎯 Focus areas: Full-stack development, System programming, Database management
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/W0nder0fy0u)
 
 ---
 
-## 🛠️ Technical Skills
+</div>
+
+## About Me
+
+Software Developer with expertise in **system programming**, **backend development**, and **Linux administration**. Experienced in building scalable applications and diagnostic tools. Strong foundation in **C** and **Python** with hands-on experience in **Arch Linux** environments.
+
+- 💼 Building efficient, production-ready software solutions
+- 🖥️ Deep expertise in Linux system administration and Arch Linux
+- 🔧 Passionate about low-level programming and system optimization
+- 📚 Currently focused on AI/ML applications and web development
+
+---
+
+## Tech Stack
 
 ### Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Operating Systems & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -34,122 +43,69 @@ I'm a passionate **Software Developer** and **Linux Enthusiast** with hands-on e
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📰 [PrepAI - Current Affairs Tutor](https://github.com/W0nder0fy0u/prepAI)
-**Smart current affairs tutor for competitive exam aspirants**
+### 📰 PrepAI
+**AI-Powered Current Affairs Tutor for Competitive Exams**
 
-An AI-powered application designed specifically for UPSC, SSC, CDS, and PCS aspirants that delivers:
-- 📝 Concise, exam-oriented news summaries
-- 🎯 Contextual background information for better understanding
-- 📚 Curated explanations tailored for competitive exams
-- 💡 Interactive practice questions and quizzes
+Smart educational platform designed for UPSC, SSC, CDS, and PCS aspirants. Delivers exam-focused news summaries with contextual information and practice questions.
 
-**Tech Stack:** `Python` `AI/ML` `Natural Language Processing`
+**Stack:** Python • NLP • Web Scraping
 
-**Key Features:**
-- Automated news aggregation and filtering
-- Intelligent summarization for quick revision
-- Topic-wise categorization aligned with exam syllabi
-- Daily updates with relevant current affairs
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/W0nder0fy0u/prepAI)
 
 ---
 
-### 🔧 [Linux Diagnostic Tool](https://github.com/W0nder0fy0u/linux-diagnostic-tool)
-**Comprehensive system diagnostics utility for Linux**
+### 🔧 Linux Diagnostic Tool
+**Comprehensive System Monitoring Utility**
 
-A powerful command-line tool built in C for system administrators and power users to diagnose and monitor Linux systems.
+Professional diagnostic tool for Linux systems. Provides real-time metrics for CPU, memory, disk I/O, and network performance. Built for system administrators and DevOps engineers.
 
-**Tech Stack:** `C` `System Programming` `Linux Kernel APIs`
+**Stack:** C • System Programming • Linux APIs
 
-**Key Features:**
-- Real-time system health monitoring
-- Hardware information gathering
-- Performance metrics analysis
-- Memory and CPU diagnostics
-- Network interface diagnostics
-- Detailed error reporting and logging
-
-**Highlights:**
-- Lightweight and efficient C implementation
-- Minimal dependencies for maximum portability
-- Designed for Arch Linux with broad compatibility
-- Professional-grade diagnostics capabilities
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/W0nder0fy0u/linux-diagnostic-tool)
 
 ---
 
-### 🎵 [Kirtan Committee Website](https://github.com/W0nder0fy0u/kirtan-committee)
-**Community-focused web platform**
+### 🎵 Kirtan Committee Website
+**Community Web Platform**
 
-A clean, responsive website developed for a religious/cultural organization to manage events and community engagement.
+Responsive website for cultural organization featuring event management, multimedia gallery, and community engagement features.
 
-**Tech Stack:** `HTML5` `CSS3` `JavaScript`
+**Stack:** HTML5 • CSS3 • JavaScript
 
-**Key Features:**
-- Responsive design for all devices
-- Event management system
-- Photo gallery and multimedia integration
-- Contact and registration forms
-- Clean, accessible UI/UX
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/W0nder0fy0u/kirtan-committee)
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=W0nder0fy0u&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W0nder0fy0u&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=W0nder0fy0u&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=W0nder0fy0u&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=W0nder0fy0u&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
-## 🌟 What I'm Learning
-
-- Advanced Python frameworks (Django, Flask)
-- Cloud technologies (AWS, Docker)
-- Modern JavaScript frameworks (React, Vue.js)
-- DevOps practices and CI/CD pipelines
-- Advanced database optimization
+</div>
 
 ---
 
-## 💡 Core Competencies
+## Core Competencies
 
-- **System Programming:** Low-level C programming, memory management, process handling
-- **Web Development:** Full-stack development with focus on responsive design
-- **Database Management:** SQL query optimization, database design, normalization
-- **Linux Administration:** Expert in Arch Linux, shell scripting, system configuration
-- **Problem Solving:** Strong analytical and debugging skills
-- **Version Control:** Git workflows, collaborative development
+**System Programming** • **Backend Development** • **Database Design** • **Linux Administration** • **Web Development** • **Problem Solving** • **Code Optimization**
 
 ---
 
-## 📫 Let's Connect
+<div align="center">
 
-I'm always interested in collaborating on innovative projects or discussing technology!
+### 📫 Get in Touch
 
-- 📧 **Email:** [](mailto:)
+Open to collaboration on interesting projects and professional opportunities.
 
----
-
-## 📈 Contributions
-
-I'm passionate about open-source development and actively contribute to projects that make a difference. Check out my repositories to see what I'm currently working on!
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=W0nder0fy0u&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=W0nder0fy0u&color=58A6FF&style=for-the-badge)
 
-<p align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</p>
-
----
-
-*Last Updated: February 2026*
+</div>
