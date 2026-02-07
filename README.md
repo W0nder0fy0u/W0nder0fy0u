@@ -17,7 +17,7 @@
 
 ## 💼 About Me
 
-Entry-level developer with hands-on experience in **C programming, Arch Linux, and backend development using Python and FastAPI**.  
+Entry-level developer with hands-on experience in **C programming, Arch Linux, and backend development using Python.  
 Comfortable working with system-level tools, APIs, and command-line environments. Focused on building functional, maintainable software with clear logic and structure.
 
 - 🔭 Currently working on **AI/ML and backend systems**
