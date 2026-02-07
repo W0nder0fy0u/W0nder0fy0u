@@ -52,19 +52,6 @@ Comfortable working with system-level tools, APIs, and command-line environments
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=W0nder0fy0u&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W0nder0fy0u&layout=compact&theme=radical&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=W0nder0fy0u&theme=radical&hide_border=true"/>
-</p>
-
----
-
 ## 🎓 Education
 
 **Master of Computer Applications (MCA)** — Graphic Era Deemed to be University, Dehradun  
