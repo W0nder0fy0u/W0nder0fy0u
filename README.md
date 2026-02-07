@@ -1,4 +1,9 @@
 # 🐧 Hi there, I'm **Subham Tiwari** 👋
+<div align="center">
+
+<img src="https://wallpaperalchemy.com/wp-content/uploads/2023/09/arch-linux-synthwave-4k-wireframe-wallpaper-196.jpg" width="100%"/>
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ARCH-LINUX-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
@@ -65,7 +70,7 @@ Comfortable working with system-level tools, APIs, and command-line environments
 **Master of Computer Applications (MCA)** — Graphic Era Deemed to be University, Dehradun  
 *(2025 – 2027, Pursuing)*  
 
-**Bachelor of Computer Applications (BCA)** — Graphic Era Deemed to be University, Dehradun  
+**Bachelor of Computer Applications (BCA)** — Graphic Era Hill University, Dehradun  
 *(2020 – 2023, SGPA: 7.5)*
 
 ---
