@@ -1,76 +1,87 @@
-<!-- ==================== TOP BANNER ==================== -->
-<div align="center">
-
-<!-- Replace this with your own banner GIF later if you want -->
-<img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="100%"/>
-
-# 👋 Hi, I'm **Subham!**
-
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x)](https://twitter.com/YOUR_HANDLE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
-
-</div>
-
----
-
-## 🚀 About Me
-
-> *System Programmer • Linux Enthusiast • C & Python Developer*
-
-- 💼 I’m currently working on **PrepAI (AI-based Current Affairs Tutor)**
-- 🌱 I’m learning **Systems, Networking, and NLP**
-- 💡 I’m passionate about **Linux, C, and Performance Engineering**
-- 🎯 Goal: Contribute more to **open source**
-- ⚡ Fun fact: I love tech, problem-solving, and deep debugging
-
----
-
-## 🛠️ Tech Stack
+# 🐧 Hi there, I'm **Subham Tiwari** 👋
 
 <p align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker">
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash">
+  <img src="https://img.shields.io/badge/ARCH-LINUX-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1793D1?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subham-tiwari-ab38971b4/)
+[![Email](https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail)](mailto:subahmt958@gmail.com)
+
+---
+
+## 💼 About Me
+
+Entry-level developer with hands-on experience in **C programming, Arch Linux, and backend development using Python and FastAPI**.  
+Comfortable working with system-level tools, APIs, and command-line environments. Focused on building functional, maintainable software with clear logic and structure.
+
+- 🔭 Currently working on **AI/ML and backend systems**
+- 🌱 Strong practical experience with **Arch Linux and system programming**
+- 💡 Prefer minimal, efficient, and well-structured solutions
+- 🎯 Focus areas: **Backend development, system tools, and diagnostics**
+
+---
+
+## 🛠️ Technical Skills
+
+### ⚙️ Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🐧 Operating Systems & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-0A0A0A?style=for-the-badge&logo=gnu&logoColor=white)
+![Make](https://img.shields.io/badge/Make-0A0A0A?style=for-the-badge&logo=gnu&logoColor=white)
+
+### 🗄️ Backend & Core Concepts
+- **FastAPI & REST APIs**
+- **Networking basics:** IP addressing, ping, connectivity checks  
+- **Logging & diagnostics**
+- **Prompt engineering & information retrieval**
+- **Virtual machine usage**
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=W0nder0fy0u&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W0nder0fy0u&layout=compact&theme=radical&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=W0nder0fy0u&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## ⭐ Featured Projects
+## 🎓 Education
 
-### 📰 **PrepAI**
-AI-powered current affairs tutor for competitive exams  
-🔗 https://github.com/W0nder0fy0u/prepAI
+**Master of Computer Applications (MCA)** — Graphic Era Deemed to be University, Dehradun  
+*(2025 – 2027, Pursuing)*  
 
-### 🔧 **Linux Diagnostic Tool**
-Real-time system monitoring in C  
-🔗 https://github.com/W0nder0fy0u/linux-diagnostic-tool
-
-### 🎵 **Kirtan Committee Website**
-Responsive community website  
-🔗 https://github.com/W0nder0fy0u/kirtan-committee
+**Bachelor of Computer Applications (BCA)** — Graphic Era Deemed to be University, Dehradun  
+*(2020 – 2023, SGPA: 7.5)*
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Let's Connect
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/subham-tiwari-ab38971b4/  
+- 📧 **Email:** subahmt958@gmail.com  
+
+---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=W0nder0fy0u&show_icons=true&theme=radical&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W0nder0fy0u&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=W0nder0fy0u&color=blueviolet&style=for-the-badge"/>
 </p>
-
----
-
-## 🏆 Achievements (GitHub Badges)
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=W0nder0fy0u&theme=radical&row=1&column=6" />
+  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </p>
 
----
-
-## 💬 A Quote
-
-> *“Write code as if the person maintaining it is a violent psychopath who knows where you live.”*
