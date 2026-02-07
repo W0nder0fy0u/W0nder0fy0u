@@ -1,76 +1,111 @@
 <div align="center">
 
-<!-- Hero: Avatar + Animated typing -->
-<img src="https://avatars.githubusercontent.com/W0nder0fy0u?v=4" width="160" style="border-radius:50%;" alt="avatar" />
+# Subham Tiwari
 
-# Subham Tiwari &nbsp; <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" alt="wave" />
+**Software Developer | Linux Enthusiast | System Programmer**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=26&duration=3000&pause=700&color=58A6FF&background=0D111700&width=720&lines=System+Programmer;Linux+Enthusiast;C+%2F+Python+Developer" alt="typing" />
-
-<!-- Social badges -->
-[![Followers](https://img.shields.io/github/followers/W0nder0fy0u?label=Follow&style=for-the-badge)](https://github.com/W0nder0fy0u)
-[![Profile Views](https://komarev.com/ghpvc/?username=W0nder0fy0u&color=58A6FF&style=for-the-badge)](https://github.com/W0nder0fy0u)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-58A6FF?style=for-the-badge)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhamt958@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/W0nder0fy0u)
 
 ---
 
 </div>
 
-## About
+## About Me
 
-I build efficient, low-level and backend software focused on performance and reliability. Comfortable in Linux environments, system programming in C, and scripting/automation with Python.
+Software Developer with expertise in **system programming**, **backend development**, and **Linux administration**. Experienced in building scalable applications and diagnostic tools. Strong foundation in **C** and **Python** with hands-on experience in **Arch Linux** environments.
 
-- 🔧 System programming & performance tuning
-- 🖥️ Linux (Arch enthusiast) — administration & tooling
-- ⚙️ Backend development and small, testable services
-- 📚 Continually exploring AI/ML and distributed systems
-
----
-
-## Snapshot
-
-<div align="center">
-
-<!-- GitHub Cards -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=W0nder0fy0u&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=W0nder0fy0u&layout=compact&theme=radical&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=W0nder0fy0u&theme=dark)
-
-</div>
+- 💼 Building efficient, production-ready software solutions
+- 🖥️ Deep expertise in Linux system administration and Arch Linux
+- 🔧 Passionate about low-level programming and system optimization
+- 📚 Currently focused on AI/ML applications and web development
 
 ---
 
 ## Tech Stack
 
+### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Operating Systems & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-- **PrepAI** — AI-powered current affairs tutor for competitive exams. (Python, NLP)
-	[View Repo](https://github.com/W0nder0fy0u/prepAI)
+### 📰 PrepAI
+**AI-Powered Current Affairs Tutor for Competitive Exams**
 
-- **Linux Diagnostic Tool** — Real-time system metrics and diagnostics (C, System Programming)
-	[View Repo](https://github.com/W0nder0fy0u/linux-diagnostic-tool)
+Smart educational platform designed for UPSC, SSC, CDS, and PCS aspirants. Delivers exam-focused news summaries with contextual information and practice questions.
 
-- **Kirtan Committee Website** — Community site with events and gallery (HTML/CSS/JS)
-	[View Repo](https://github.com/W0nder0fy0u/kirtan-committee)
+**Stack:** Python • NLP • Web Scraping
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/W0nder0fy0u/prepAI)
 
 ---
 
-## Get in touch
+### 🔧 Linux Diagnostic Tool
+**Comprehensive System Monitoring Utility**
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+Professional diagnostic tool for Linux systems. Provides real-time metrics for CPU, memory, disk I/O, and network performance. Built for system administrators and DevOps engineers.
+
+**Stack:** C • System Programming • Linux APIs
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/W0nder0fy0u/linux-diagnostic-tool)
+
+---
+
+### 🎵 Kirtan Committee Website
+**Community Web Platform**
+
+Responsive website for cultural organization featuring event management, multimedia gallery, and community engagement features.
+
+**Stack:** HTML5 • CSS3 • JavaScript
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/W0nder0fy0u/kirtan-committee)
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=W0nder0fy0u&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=W0nder0fy0u&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+</div>
+
+---
+
+## Core Competencies
+
+**System Programming** • **Backend Development** • **Database Design** • **Linux Administration** • **Web Development** • **Problem Solving** • **Code Optimization**
 
 ---
 
 <div align="center">
-<sub>Profile updated with a cleaner, UI-like layout and animated elements. Replace `YOUR_PORTFOLIO_URL`, `YOUR_LINKEDIN_URL`, and `` with your links.</sub>
+
+### 📫 Get in Touch
+
+Open to collaboration on interesting projects and professional opportunities.
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:subhamt958@gmail.com)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=W0nder0fy0u&color=58A6FF&style=for-the-badge)
+
 </div>
