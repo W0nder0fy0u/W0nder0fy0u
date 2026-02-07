@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="[https://wallpaperalchemy.com/wp-content/uploads/2023/09/arch-linux-synthwave-4k-wireframe-wallpaper-196.jpg](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.wallpaperalchemy.com%2Fha%2Fwallpaper%2Farch-linux-synthwave-4k-wireframe-wallpaper-196&ved=0CBYQjRxqFwoTCKjl4-fox5IDFQAAAAAdAAAAABAI&opi=89978449)" width="100%"/>
+<img src="./arch.jpg" width="100%"/>
 
 </div>
+
 # 🐧 Hi there, I'm **Subham Tiwari** 👋
 
 <p align="center">
